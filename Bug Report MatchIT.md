@@ -49,7 +49,6 @@ WEB - Some words are misspelled.
 **Precondition:**
 
 Environment is Windows 10/Chrome.
-
 HR/Company user is logged in. 
 
 **Expected result:**
@@ -82,7 +81,6 @@ MOB - Word is misspelled.
 **Precondition:**
 
 Environment is Android/Blackview A80 Pro.
-
 Candidate is logged in.
 
 **Expected result:**
@@ -223,7 +221,6 @@ tab.
 **Precondition:**
 
 Use mobile with bigger display screen. 
-
 Environment is Android/Blackview A80 Pro with  **6.49 inch** display
 screen.
 
@@ -278,9 +275,7 @@ beginning of candidate’s listed experiences.
 **Precondition**:
 
 Candidate is matched with a job.
-
 Environment is Windows10/Chrome.
-
 HR/Company user is logged in.
 
 **Steps to reproduce:**
@@ -322,11 +317,8 @@ candidate’s message (GIF and text message).
 **Precondition:**
 
 Candidate is matched with a job.
-
 Environment is Android/Blackview A80 Pro and Windows10/Chrome.
-
 Candidate is logged in on a mobile app.
-
 HR/Company user is logged in web app,
 
 **Steps to reproduce:**
@@ -366,11 +358,8 @@ user’s chat while candidate types a message.
 **Precondition:**
 
 Candidate is matched with a job.
-
 Environment is Windows10/Chrome and Android/Blackview A80 Pro.
-
 Candidate is logged in on a mobile app.
-
 HR/Company user is logged in web app,
 
 **Steps to reproduce:**
@@ -414,9 +403,7 @@ WEB - MatChat - Replied message in the 'Thread' is displayed vertically.
 **Precondition:**
 
 Candidate is matched with a job. 
-
 Environment is Windows10/Chrome.
-
 HR/Company user is logged in.
 
 **Steps to reproduce:**
@@ -456,9 +443,7 @@ WEB - MatChat - Typing message in the 'Thread' isn’t fully displayed.
 **Precondition:**
 
 Candidate is matched with a job. 
-
 Environment is Windows10/Chrome.
-
 HR/Company user is logged in.
 
 **Steps to reproduce:**
@@ -499,9 +484,7 @@ WEB - MatChat - Pinned message looks the same like unpinned.
 **Precondition:**
 
 Candidate is matched with a job. 
-
 Environment is Windows10/Chrome.
-
 HR/Company user is logged in.
 
 **Steps to reproduce:**
