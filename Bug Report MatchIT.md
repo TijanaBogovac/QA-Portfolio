@@ -52,7 +52,7 @@ Environment is Windows 10/Chrome.
 
 HR/Company user is logged in. 
 
-**Expected result: **
+**Expected result:**
 
 Serbian letters are used in the whole application.
 
@@ -85,7 +85,7 @@ Environment is Android/Blackview A80 Pro.
 
 Candidate is logged in.
 
-**Expected result: **
+**Expected result:**
 
 Serbian letters are used in the whole application.
 
@@ -265,7 +265,7 @@ Badges (‘Veštine i Bedzevi’).
 
 WEB - Word 'None' is displayed for candidate with a lot of experience.
 
-**Description: **
+**Description:**
 
 In job ad (for example *Junior Python developer*) are listed 2 wanted
 technologies. Candidate has high experience in both wanted
@@ -532,6 +532,3 @@ from all messages.
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/cfef8486-4f45-4916-8c5d-628725253c11)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/c55d1e7d-b67c-4873-b056-e4884becef24)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/917e665d-d7d9-4aa3-b149-af530a9c1f48)
-
-
-
