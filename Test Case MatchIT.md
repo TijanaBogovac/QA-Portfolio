@@ -1,6 +1,7 @@
 ﻿**TEST CASE**
 
 <hr>Test case 1</hr>
+
 **Test case name:** Verify that Pop-up notification will appear on mobile when user got matched with a job.
 
 **Description:** User swipes right a job ad on Start page (‘Početna’) of Mobile app. Next day user appeared in Candidate’s deck (‘Deck Kandidata’) which is visible to HR/Company user. HR/Company user ✔ (tick) the user, and that mean user got a matched job.
