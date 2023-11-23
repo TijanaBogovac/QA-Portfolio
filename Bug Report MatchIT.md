@@ -2,7 +2,7 @@
 
 **BUG1**
 
-**Summary: **
+**Summary:**
 
 WEB - Two fields Benefits and Work Methods (‘Benefiti’ i ‘Načini rada’)
 aren't visible in the created job ad.
@@ -24,7 +24,7 @@ Environment is Windows 10/Chrome.
 
 5.  Click on created job ad
 
-**Expected result: **
+**Expected result:**
 
 Benefits and Work Methods (‘Benefiti’ i ‘Načini rada’) should be visible
 in created job ad same as in edit mode.
