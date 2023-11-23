@@ -1,6 +1,6 @@
 **BUG REPORT**
 
-**BUG1**
+<hr>BUG1</hr>
 
 **Summary:**
 
@@ -40,7 +40,7 @@ Sections Benefits and Work Methods are missing in created job ad.
 ![](media/image2.png){width="5.927522965879265in"
 height="4.141666666666667in"}
 
-**BUG2**
+<hr>BUG2</hr>
 
 **Summary:**
 
@@ -71,7 +71,7 @@ Serbian letters are used in the whole application.
 
 ![](media/image4.png){width="6.5in" height="3.533333333333333in"}
 
-**BUG3**
+<hr>BUG3</hr>
 
 **Summary:**
 
@@ -97,7 +97,7 @@ Serbian letters are used in the whole application.
 ![](media/image5.png){width="1.8083333333333333in"
 height="3.683333333333333in"}
 
-**BUG4**
+<hr>BUG4</hr>
 
 **Summary:**
 
@@ -147,7 +147,7 @@ paragraph, although text was edited in two paragraphs.
 ![](media/image7.png){width="5.066666666666666in"
 height="0.9416666666666667in"}
 
-**BUG5**
+<hr>BUG5</hr>
 
 **Summary:**
 
@@ -182,7 +182,7 @@ The user selected 21 technologies.
 ![](media/image8.png){width="1.8314107611548556in"
 height="3.809332895888014in"}
 
-**BUG6**
+<hr>BUG6</hr>
 
 **Summary:**
 
@@ -217,7 +217,7 @@ counter shows number of maximum allowed technologies less then 20. And
 every time when repeating actions check/uncheck, number of allowed
 technologies is less and less.
 
-**BUG7**
+<hr>BUG7</hr>
 
 **Summary:**
 
@@ -264,7 +264,7 @@ height="3.8583333333333334in"}![](media/image10.png){width="2.142904636920385in"
 height="3.5833333333333335in"}![](media/image11.png){width="2.075in"
 height="4.433333333333334in"}
 
-**BUG8**
+<hr>BUG8</hr>
 
 **Summary:**
 
@@ -311,8 +311,7 @@ Candidate with a lot of experience has word 'None' in Experience section
 ![](media/image12.png){width="5.033333333333333in"
 height="2.8457688101487313in"}
 
-**BUG9**
-
+<hr>BUG9</hr>
 **Summary:**
 
 MOB/WEB - Candidate can't see own text message sent together with GIF to
@@ -362,7 +361,7 @@ Candidate see only a GIF which was sent to matched job along with text. 
 ![](media/image14.png){width="6.6422014435695536in"
 height="4.099991251093614in"}
 
-**BUG10**
+<hr>BUG10</hr>
 
 **Summary:**
 
@@ -411,7 +410,7 @@ chat. Instead of name is displayed
 ![](media/image15.png){width="6.660550087489064in"
 height="3.8426246719160106in"}
 
-**BUG11**
+<hr>BUG11</hr>
 
 **Summary:**
 
@@ -453,7 +452,7 @@ The replied message is displayed vertically.
 
 ![](media/image17.png){width="6.5in" height="3.9916666666666667in"}
 
-**BUG12**
+<hr>BUG12</hr>
 
 **Summary:**
 
@@ -496,7 +495,7 @@ characters are visible.
 
 ![](media/image18.png){width="6.5in" height="3.825in"}
 
-**BUG13**
+<hr>BUG13</hr>
 
 **Summary:**
 
