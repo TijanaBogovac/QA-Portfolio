@@ -35,10 +35,10 @@ Sections Benefits and Work Methods are missing in created job ad.
 
 **Screenshot:**
 
-![](media/image1.png){width="5.9in" height="3.2525634295713037in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/c19642dd-e2ca-4dc4-97f4-2c5c2496b7ae)
 
-![](media/image2.png){width="5.927522965879265in"
-height="4.141666666666667in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/f4f130df-3a98-4fbe-a014-4e384eef09cb)
+
 
 <hr>BUG2</hr>
 
@@ -67,9 +67,11 @@ Serbian letters are used in the whole application.
 
 **Screenshot:**
 
-![](media/image3.png){width="6.5in" height="3.4916666666666667in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/a8f29a6b-c119-4a49-a0f8-3ab5128c9da8)
 
-![](media/image4.png){width="6.5in" height="3.533333333333333in"}
+
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/e5aea7d3-6b5a-4260-a9e1-6eaf6b34d777)
+
 
 <hr>BUG3</hr>
 
@@ -94,8 +96,8 @@ Serbian letters are used in the whole application.
 
 **Screenshot:**
 
-![](media/image5.png){width="1.8083333333333333in"
-height="3.683333333333333in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/1e18649b-dff9-4545-9752-8dc16b2a8cc2)
+
 
 <hr>BUG4</hr>
 
@@ -125,7 +127,7 @@ created job ad
 
 7\. Pay attention to field About project (‘O projektu’)
 
-**Expected result: **
+**Expected result:**
 
 When HR/Company writes a job ad, text should looks identical in made job
 ad. If text is divided into two paragraphs, text should be two
@@ -138,14 +140,8 @@ paragraph, although text was edited in two paragraphs.
 
 **Screenshoot:**
 
-**Edit version:**
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/112a7b88-ac12-4280-b6c6-c8878f9d8b03)
 
-![](media/image6.png){width="6.5in" height="0.8416666666666667in"}
-
-**How it looks in created job ad: **
-
-![](media/image7.png){width="5.066666666666666in"
-height="0.9416666666666667in"}
 
 <hr>BUG5</hr>
 
@@ -179,8 +175,8 @@ The user selected 21 technologies.
 
 **Screenshot:**
 
-![](media/image8.png){width="1.8314107611548556in"
-height="3.809332895888014in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/0af83387-b838-44f3-b56d-630e3b2008ed)
+
 
 <hr>BUG6</hr>
 
@@ -259,10 +255,9 @@ Badges (‘Veštine i Bedzevi’).
 
 **Screenshot:**
 
-![](media/image9.png){width="2.262840113735783in"
-height="3.8583333333333334in"}![](media/image10.png){width="2.142904636920385in"
-height="3.5833333333333335in"}![](media/image11.png){width="2.075in"
-height="4.433333333333334in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/1af2bf1a-c082-4671-ba44-a6cdb0305709)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/26654c5d-fe9d-4bb4-9e62-f2e470dcb104)
+
 
 <hr>BUG8</hr>
 
@@ -308,8 +303,8 @@ Candidate with a lot of experience has word 'None' in Experience section
 
 **Screenshot:**
 
-![](media/image12.png){width="5.033333333333333in"
-height="2.8457688101487313in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/49bfca94-96bf-4260-be3e-b19f1ea23e2d)
+
 
 <hr>BUG9</hr>
 
@@ -357,10 +352,9 @@ Candidate see only a GIF which was sent to matched job along with text. 
 
 **Screenshot:**
 
-![](media/image13.png){width="2.7in" height="5.5in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/5b6190ed-a2ad-4a25-8350-5519d3b46c49)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/9e2b5841-3ad5-4250-a8ee-312f3165864a)
 
-![](media/image14.png){width="6.6422014435695536in"
-height="4.099991251093614in"}
 
 <hr>BUG10</hr>
 
@@ -408,8 +402,8 @@ chat. Instead of name is displayed
 
 **Screenshot:**
 
-![](media/image15.png){width="6.660550087489064in"
-height="3.8426246719160106in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/9c6baf2b-dc71-49af-936d-8bc1366af2f6)
+
 
 <hr>BUG11</hr>
 
@@ -425,7 +419,7 @@ Environment is Windows10/Chrome.
 
 HR/Company user is logged in.
 
-**Steps to reproduce: **
+**Steps to reproduce:**
 
 1\. Go to the MatChat for example
 <https://company.matchit.rs/chat?match_id=166>
@@ -449,9 +443,9 @@ The replied message is displayed vertically.
 
 **Screenshot:**
 
-![](media/image16.png){width="6.5in" height="3.7916666666666665in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/a9055c4d-1d40-478c-8558-76ae1cc70a8c)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/ce65f867-dcfe-4193-9d91-05cfb65108ae)
 
-![](media/image17.png){width="6.5in" height="3.9916666666666667in"}
 
 <hr>BUG12</hr>
 
@@ -467,7 +461,7 @@ Environment is Windows10/Chrome.
 
 HR/Company user is logged in.
 
-**Steps to reproduce: **
+**Steps to reproduce:**
 
 1\. Go to the MatChat for example
 <https://company.matchit.rs/chat?match_id=166>
@@ -492,9 +486,9 @@ characters are visible.
 
 **Screenshot**:
 
-![](media/image16.png){width="6.5in" height="3.7916666666666665in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/28b1735f-3582-4250-8206-0ddf76513936)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/bfc290a9-5cb6-498a-9697-46901e8fb86b)
 
-![](media/image18.png){width="6.5in" height="3.825in"}
 
 <hr>BUG13</hr>
 
@@ -535,9 +529,9 @@ from all messages.
 
 **Screenshot:**
 
-![](media/image19.png){width="5.133333333333334in"
-height="3.783333333333333in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/cfef8486-4f45-4916-8c5d-628725253c11)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/c55d1e7d-b67c-4873-b056-e4884becef24)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/917e665d-d7d9-4aa3-b149-af530a9c1f48)
 
-![](media/image20.png){width="5.075in" height="4.033333333333333in"}
 
-![](media/image21.png){width="6.5in" height="3.875in"}
+
