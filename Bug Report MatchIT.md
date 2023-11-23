@@ -312,12 +312,13 @@ Candidate with a lot of experience has word 'None' in Experience section
 height="2.8457688101487313in"}
 
 <hr>BUG9</hr>
+
 **Summary:**
 
 MOB/WEB - Candidate can't see own text message sent together with GIF to
 matched job.
 
-**Description: **
+**Description:**
 
 When candidate sent text message with GIF to matched job, only GIF
 appeared to candidate in chat, while HR/Company user can see complete
