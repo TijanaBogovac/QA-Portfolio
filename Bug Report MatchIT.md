@@ -17,7 +17,7 @@ Environment is Windows 10/Chrome.
 
 2.  Click on button Add job ad (‘+Dodaj oglas’)
 
-3.  Fill all fields and click on Create (‘Kreiraj)
+3.  Fill all fields and click on Create (‘Kreiraj')
 
 4.  Go to link <https://company.matchit.rs/job-offers> and find newly
     created job ad
