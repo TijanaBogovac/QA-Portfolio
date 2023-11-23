@@ -1,6 +1,6 @@
-> **IMPROVEMENT**
+ **IMPROVEMENT**
 
-**Improvement 1:**
+<hr>Improvement 1:</hr>
 
 **Current:** Only Dark mode is available in application.
 
@@ -15,7 +15,7 @@ Off will be for Light mode.
 visual way than Dark mode. Visual performance tends to be better with
 light mode. 
 
-**Improvement 2:**
+<hr>Improvement 2:</hr>
 
 **Current:** Only Serbian language is available in mobile application.
 On computer user can choose English if wants.
@@ -31,7 +31,7 @@ and English.
 **Reason:** Option for English language should be available for users
 who live in Serbia and whose English is first language.
 
-**Improvement 3:**
+<hr>Improvement 3:</hr>
 
 **Current:** Application has three separated tabs. In tab 'Profile'
 there is no quick menu (three horizontal lines ≡) where can be listed
@@ -55,7 +55,7 @@ corner. In that navigation menu should be listed options for: 
 **Reason:** Navigation menu make the application easier to use, because
 all options are visible on the one place.
 
-**Improvement 4**:
+<hr>Improvement 4:</hr>
 
 **Current:** User can read instructions how to use application only on
 Website. On mobile is one very short tutorial after user download
@@ -78,7 +78,7 @@ application works if the tutorial is available only at the beggining and
 no tutorial to view later. Or if user forgot how application works,
 tutorial can remind him.
 
-**Improvement 5:**
+<hr>Improvement 5:</hr>
 
 **Current:** User can't see own profile as a whole.
 
@@ -89,7 +89,7 @@ editing.
 
 **Reason:** User should see how his own profile looks for employer.
 
-**Improvement 6:**
+<hr>Improvement 6:</hr>
 
 **Current:** There is 'dislike' and 'like' symbols when user swipe, but
 symbols are at the bottom, they are not visible too much. Also, color of
@@ -103,7 +103,7 @@ user can see difference (example #c73737 red, #73f12e green).   
 
 **Reason:** For new users can be easier to understand Matching.
 
-**Improvement 7:**
+<hr>Improvement 7:</hr>
 
 **Current:** There is no Contact Form for users.
 
