@@ -220,7 +220,7 @@ technologies is less and less.
 MOB - The sections are cut off on the particular tabs in the Profile
 tab.
 
-**Precondition: **
+**Precondition:**
 
 Use mobile with bigger display screen. 
 
@@ -341,7 +341,7 @@ HR/Company user is logged in web app,
 
 4\. Check new message from candidate.
 
-**Expected result: **
+**Expected result:**
 
 Candidate see a complete message (text and GIF) which sent to matched
 job same how HR/Company user see It. 
