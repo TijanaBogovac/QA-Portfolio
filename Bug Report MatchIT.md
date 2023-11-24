@@ -438,7 +438,7 @@ The replied message is displayed vertically.
 
 **Summary:**
 
-WEB - MatChat - Typing message in the 'Thread' isn’t fully displayed.
+WEB - MatChat - Typed message in the 'Thread' isn’t fully displayed.
 
 **Precondition:**
 
