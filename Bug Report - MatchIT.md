@@ -85,6 +85,7 @@ Serbian letters are used in the whole application.
 -   MOB - **'Profil'** - Letter z (instead of serbian letter ž) was used in 'Veštine i bedzevi'
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/4d95bc0e-e96e-435e-89c9-eb60e989f78d)
 
 <hr>BUG4</hr>
@@ -161,6 +162,7 @@ number of technologies which user can choose is 20.
 The user selected 21 technologies.
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/93917fa1-2e51-42ba-bc00-0a4555248eb8)
 
 <hr>BUG6</hr>
