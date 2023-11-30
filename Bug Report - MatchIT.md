@@ -183,11 +183,8 @@ Environment is Android/Blackview A80 Pro.
 3.  Choose maximum allowed random technologies (20).
 
 4.  Uncheck few technologies.
-
-```{=html}
-<!-- -->
-```
-5.  Check random technologies to be maximum allowed (20).
+   
+6.  Check random technologies to be maximum allowed (20).
 
 **Expected result:**
 
