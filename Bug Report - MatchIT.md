@@ -667,7 +667,7 @@ display's dimensions 280 x 653.
 
 6.  Go down to 'Projekat MatchIT' and pay attention to vertical grey line
 
-Expected result:
+**Expected result:**
 
 Vertical line should stand by words.
 
