@@ -239,6 +239,7 @@ The same applies to sections Education ('Edukacija') and Skills and
 Badges ('Veštine i Bedzevi').
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/2bc2792f-0f56-4757-a86d-74efebe19adc)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/3c4497ff-6009-4cfc-8821-1c238c74c59a)
 
@@ -283,6 +284,7 @@ Candidate with a lot of experience has word \'None\' in Experience
 section ('Iskustvo').
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/182b525e-3d2b-4e59-b1a7-feea51e00a49)
 
 <hr>BUG9</hr>
@@ -330,6 +332,7 @@ job same how HR/Company user see It.
 Candidate see only a GIF which was sent to matched job along with text.
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/6e3ca755-2fc9-4b16-8e3a-ef28b4bfe35e)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/fee1d990-5590-4863-9616-7d7818d388c1)
 
@@ -376,6 +379,7 @@ Instead of name is displayed
 . . . {{ user }} is typing\...
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/0fa96640-8e71-4563-b2ce-d2c5ea669b10)
 
 <hr>BUG11</hr>
@@ -414,7 +418,8 @@ the field.
 
 The replied message is displayed vertically.
 
-Screenshot:
+**Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/897d01ad-91e9-49f8-8050-2ac6e3040e9b)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/da7655f6-2912-401e-8a91-cf15d439ab51)
 
@@ -455,6 +460,7 @@ Typed message in field below \'Thread\' is partial visible - only first
 3 characters are visible.
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/cab74ead-4203-4aeb-8b90-a51cfd8b962e)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/85aca326-5dcc-475b-be86-cb0f1e86d6c5)
 
@@ -495,6 +501,7 @@ Pinned message in the MatChat remains at same position, doesn\'t isolate
 from all messages.
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/f23a4eae-4c73-448a-9161-a5bc39cfd1e9)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/b02db72d-bdaf-4485-8563-83d8fa3f2522)
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/3b124d26-4b61-480f-87bd-0bf9db39e9dc)
@@ -534,6 +541,7 @@ Candidate's names with messages aren't displayed, instead of that is
 empty gray background.
 
 **Screenshoot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/592a21e9-6ecf-4333-bbe5-568c58f97fd2)
 
 <hr>BUG15</hr>
@@ -571,6 +579,7 @@ horizontally.
 Messages in chat are displayed vertically, like letter under letter.
 
 **Screenshoot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/0fbabdee-fd56-476d-9000-0ec38c7b160f)
 
 <hr>BUG16</hr>
@@ -628,6 +637,7 @@ Same is applicable for:
 -   Samsung Galaxy S20 Ultra 412 x 915
 
 **Screenshoot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/a775a60a-0943-4819-a2c9-81815eae3dd2)
 
 <hr>BUG17</hr>
@@ -682,6 +692,7 @@ Same is applicable for:
 -   Samsung Galaxy S20 Ultra 412 x 915
 
 **Screenshoot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/896ba2d4-fe82-4109-b1a4-61b410c225ce)
 
 <hr>BUG18</hr>
@@ -727,7 +738,8 @@ Same is applicable for:
 
 -   Samsung Galaxy S8+ 360 x 740
 
-Screenshoot:
+**Screenshoot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/199800f1-4625-47b9-af65-68be6a47c56d)
 
 <hr>BUG19</hr>
@@ -764,6 +776,7 @@ Icons for listed technologies should be in size to be visible.
 Icons for listed technologies have small size.
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/06e7b2c1-60f1-4663-9f8e-09cb9b151f83)
 
 <hr>BUG20</hr>
@@ -822,6 +835,7 @@ Same is applicable for:
 -   Samsung Galaxy S20 Ultra 412 x 915
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/64c18b40-4988-49c8-a407-6380a7b7a1e2)
 
 <hr>BUG21</hr>
@@ -861,6 +875,7 @@ Every field has own grey frame. Words, icons are inside that frame.
 Words and icons are partially outside the frame.
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/b89b2445-e438-4f70-a719-0b27b5012e49)
 
 <hr>BUG22</hr>
@@ -908,6 +923,7 @@ Same is applicable for:
 -   Samsung Galaxy S8+ 360 x 740
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/eb09d26b-3d52-4474-b7c7-1482c369d4bb)
 
 BUG23
@@ -956,7 +972,8 @@ Same is applicable for:
 
 -   Samsung Galaxy S8+ 360 x 740
 
-Screenshot:
+**Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/d5185c75-be70-4ffb-8b1b-38c9c29ceeac)
 
 <hr>BUG24</hr>
@@ -1003,4 +1020,5 @@ Same is applicable for:
 -   Nest Hub 1024 x 600
 
 **Screenshot:**
+
 ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/2fe44317-30a8-4914-b679-39044048b8bf)
