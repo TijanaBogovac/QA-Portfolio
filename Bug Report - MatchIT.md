@@ -1,6 +1,6 @@
 **BUG REPORT**
 
-BUG1
+<hr>BUG1</hr>
 
 Summary:
 
@@ -19,8 +19,7 @@ Steps to reproduce:
 
 3.  Fill all fields and click on Create ('Kreiraj)
 
-4.  Go to link <https://company.matchit.rs/job-offers> and find newly
-    > created job ad
+4.  Go to link <https://company.matchit.rs/job-offers> and find newly reated job ad
 
 5.  Click on created job ad
 
@@ -35,13 +34,10 @@ Sections Benefits and Work Methods are missing in created job ad.
 
 Screenshot:
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image12.png){width="6.5in"
-height="3.5833333333333335in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/00911ec2-62cf-47ed-bb78-3a784429367b)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/01dcee80-e785-40b1-bc8a-006b3b4d53d5)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image4.png){width="6.5in"
-height="4.541666666666667in"}
-
-BUG2
+<hr>BUG2</hr>
 
 Summary:
 
@@ -59,23 +55,16 @@ Serbian letters are used in the whole application.
 
 Actual result:
 
--   WEB - **'Oglasi'** - In created job ad, letter c (instead of serbian
-    > letter č) was used in \'Nacin razvoja\' and \'Broj clanova\'
-    > options
+-   WEB - **'Oglasi'** - In created job ad, letter c (instead of serbian letter č) was used in \'Nacin razvoja\' and \'Broj clanova\' options
 
--   WEB - **'Deck kandidata'** - In the message appeared after
-    > HR/Company user finished choosing all candidates, was used letter
-    > dj (instead of serbian letter đ) in word \'medjuvremenu\'.
+-   WEB - **'Deck kandidata'** - In the message appeared after HR/Company user finished choosing all candidates, was used letter dj (instead of serbian letter đ) in word \'medjuvremenu\'.
 
 Screenshot:
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image35.png){width="6.5in"
-height="3.486111111111111in"}
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/7b92718e-4594-485c-b5bc-f3e0d98b7007)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/61263fa1-4c55-48b0-b4cc-839b2606ec56)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image8.png){width="6.5in"
-height="3.5277777777777777in"}
-
-BUG3
+<hr>BUG3</hr>
 
 Summary:
 
@@ -93,15 +82,12 @@ Serbian letters are used in the whole application.
 
 Actual result:
 
--   MOB - **'Profil'** - Letter z (instead of serbian letter ž) was used
-    > in 'Veštine i bedzevi'
+-   MOB - **'Profil'** - Letter z (instead of serbian letter ž) was used in 'Veštine i bedzevi'
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/4d95bc0e-e96e-435e-89c9-eb60e989f78d)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image1.png){width="1.808682195975503in"
-height="3.682292213473316in"}
-
-BUG4
+<hr>BUG4</hr>
 
 Summary:
 
@@ -142,17 +128,9 @@ paragraph, although text was edited in two paragraphs.
 
 Screenshoot:
 
-**Edit version:**
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/14e3da69-2b60-49df-b9fa-9edc9d8ccb3a)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image11.png){width="6.5in"
-height="0.8472222222222222in"}
-
-**How it looks in created job ad:**
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image13.png){width="5.057292213473316in"
-height="0.937587489063867in"}
-
-BUG5
+<hr>BUG5</hr>
 
 Summary:
 
@@ -183,11 +161,9 @@ Actual result:
 The user selected 21 technologies.
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/93917fa1-2e51-42ba-bc00-0a4555248eb8)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image32.png){width="2.0881310148731407in"
-height="4.328125546806649in"}
-
-BUG6
+<hr>BUG6</hr>
 
 Summary:
 
@@ -225,7 +201,7 @@ counter shows number of maximum allowed technologies less then 20. And
 every time when repeating actions check/uncheck, number of allowed
 technologies is less and less.
 
-BUG7
+<hr>BUG7</hr>
 
 Summary:
 
@@ -266,13 +242,10 @@ The same applies to sections Education ('Edukacija') and Skills and
 Badges ('Veštine i Bedzevi').
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/2bc2792f-0f56-4757-a86d-74efebe19adc)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/3c4497ff-6009-4cfc-8821-1c238c74c59a)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image9.png){width="2.461233595800525in"
-height="4.182292213473316in"}![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image34.png){width="2.5156255468066493in"
-height="4.211809930008749in"}![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image29.png){width="2.075288713910761in"
-height="4.432292213473316in"}
-
-BUG8
+<hr>BUG8</hr>
 
 Summary:
 
@@ -297,8 +270,7 @@ HR/Company user is logged in.
 
 Steps to reproduce:
 
-1\. Go to candidate's profile, example for
-<https://company.matchit.rs/job-offers/24/matches/166/candidate>
+1\. Go to candidate's profile, example for <https://company.matchit.rs/job-offers/24/matches/166/candidate>
 
 2\. Pay attention to Experience (\'Iskustvo\') and the beggining of the
 experience's list.
@@ -314,13 +286,9 @@ Candidate with a lot of experience has word \'None\' in Experience
 section ('Iskustvo').
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/182b525e-3d2b-4e59-b1a7-feea51e00a49)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image25.png){width="6.5in"
-height="3.6805555555555554in"}
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-BUG9
+<hr>BUG9</hr>
 
 Summary:
 
@@ -365,14 +333,10 @@ Actual result:
 Candidate see only a GIF which was sent to matched job along with text.
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/6e3ca755-2fc9-4b16-8e3a-ef28b4bfe35e)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/fee1d990-5590-4863-9616-7d7818d388c1)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image33.png){width="2.694837051618548in"
-height="5.494792213473316in"}
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image18.png){width="5.119231189851269in"
-height="3.151042213473316in"}
-
-BUG10
+<hr>BUG10</hr>
 
 Summary:
 
@@ -395,9 +359,7 @@ Steps to reproduce:
 
 2\. Type a message to matched job.
 
-3\. At the same moment open MatChat on WEB:
-
-<https://company.matchit.rs/chat?match_id=166>
+3\. At the same moment open MatChat on WEB: <https://company.matchit.rs/chat?match_id=166>
 
 3\. Pay attention to the chat's bottom in the moment when candidate
 types a message.
@@ -417,11 +379,9 @@ Instead of name is displayed
 . . . {{ user }} is typing\...
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/0fa96640-8e71-4563-b2ce-d2c5ea669b10)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image26.png){width="6.5in"
-height="3.75in"}
-
-BUG11
+<hr>BUG11</hr>
 
 Summary:
 
@@ -438,8 +398,7 @@ HR/Company user is logged in.
 
 Steps to reproduce:
 
-1\. Go to the MatChat for example
-<https://company.matchit.rs/chat?match_id=166>
+1\. Go to the MatChat for example <https://company.matchit.rs/chat?match_id=166>
 
 2\. Find message \'Vidimo se onda\' from candidate.
 
@@ -459,14 +418,10 @@ Actual result:
 The replied message is displayed vertically.
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/897d01ad-91e9-49f8-8050-2ac6e3040e9b)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/da7655f6-2912-401e-8a91-cf15d439ab51)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image15.png){width="6.5in"
-height="3.7916666666666665in"}
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image23.png){width="6.5in"
-height="3.986111111111111in"}
-
-BUG12
+<hr>BUG12</hr>
 
 Summary:
 
@@ -482,8 +437,7 @@ HR/Company user is logged in.
 
 Steps to reproduce:
 
-1\. Go to the MatChat for example
-<https://company.matchit.rs/chat?match_id=166>
+1\. Go to the MatChat for example <https://company.matchit.rs/chat?match_id=166>
 
 2\. Find message \'Vidimo se onda\' from candidate.
 
@@ -504,14 +458,10 @@ Typed message in field below \'Thread\' is partial visible - only first
 3 characters are visible.
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/cab74ead-4203-4aeb-8b90-a51cfd8b962e)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/85aca326-5dcc-475b-be86-cb0f1e86d6c5)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image15.png){width="6.5in"
-height="3.7916666666666665in"}
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image31.png){width="6.5in"
-height="3.8194444444444446in"}
-
-BUG13
+<hr>BUG13</hr>
 
 Summary:
 
@@ -527,8 +477,7 @@ HR/Company user is logged in.
 
 Steps to reproduce:
 
-1\. Go to the MatChat for example
-<https://company.matchit.rs/chat?match_id=166>
+1\. Go to the MatChat for example <https://company.matchit.rs/chat?match_id=166>
 
 2\. Find message \'Vidimo se onda\' from candidate.
 
@@ -549,28 +498,22 @@ Pinned message in the MatChat remains at same position, doesn\'t isolate
 from all messages.
 
 Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/f23a4eae-4c73-448a-9161-a5bc39cfd1e9)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/b02db72d-bdaf-4485-8563-83d8fa3f2522)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/3b124d26-4b61-480f-87bd-0bf9db39e9dc)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image16.png){width="5.135416666666667in"
-height="3.78125in"}
+<hr>BUG14</hr>
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image21.png){width="5.072916666666667in"
-height="4.03125in"}
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image28.png){width="6.5in"
-height="3.875in"}
-
-BUG14
-
-**Summary:**
+Summary:
 
 WEB - MatChat - List of messages with candidates aren't visible.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
@@ -584,32 +527,30 @@ display's dimensions 280 x 653.
 
 6.  Pay attention to chat's tab
 
-**Expected result:**
+Expected result:
 
 On the left side are displayed candidate's names with messages.
 
-**Actual result:**
+Actual result:
 
 Candidate's names with messages aren't displayed, instead of that is
 empty gray background.
 
-**Screenshoot:**
+Screenshoot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/592a21e9-6ecf-4333-bbe5-568c58f97fd2)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image3.png){width="2.8926465441819773in"
-height="5.432292213473316in"}
+<hr>BUG15</hr>
 
-BUG15
-
-**Summary:**
+Summary:
 
 WEB - MatChat - Messages are displayed vertically.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
@@ -623,34 +564,31 @@ display's dimensions 280 x 653.
 
 6.  Pay attention to chat's tab
 
-**Expected result:**
+Expected result:
 
 Display of chat's tab are enough expanded, so messages are displayed
 horizontally.
 
-**Actual result:**
+Actual result:
 
 Messages in chat are displayed vertically, like letter under letter.
 
-**Screenshoot:**
+Screenshoot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/0fbabdee-fd56-476d-9000-0ec38c7b160f)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image17.png){width="2.9154713473315836in"
-height="4.786458880139983in"}![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image5.png){width="2.7041688538932633in"
-height="4.161458880139983in"}
+<hr>BUG16</hr>
 
-BUG16
-
-**Summary:**
+Summary:
 
 WEB - MatChat - First few letters of candidate's names and messages are
 displayed.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Samsung Galaxy A51/71 with
 display's dimensions 412 x 914.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
@@ -664,17 +602,17 @@ display's dimensions 412 x 914.
 
 6.  Pay attention to chat's tab
 
-**Expected result:**
+Expected result:
 
 On the left side are completely displayed candidate's names with
 messages.
 
-**Actual result:**
+Actual result:
 
 On the left side of chat are first few letters of candidate's names
 displayed, as well as messages.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -692,28 +630,25 @@ Same is applicable for:
 
 -   Samsung Galaxy S20 Ultra 412 x 915
 
-**Screenshoot:**
+Screenshoot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/a775a60a-0943-4819-a2c9-81815eae3dd2)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image7.png){width="3.585883639545057in"
-height="4.067708880139983in"}
+<hr>BUG17</hr>
 
-BUG17
-
-**Summary:**
+Summary:
 
 WEB - Oglasi - A vertical line crosses over words.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > <https://company.matchit.rs/job-offers/18>
+2.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
 
 3.  Mouse right-click on page \> Inspect
 
@@ -721,18 +656,17 @@ display's dimensions 280 x 653.
 
 5.  On top left choose *Dimensions: Galaxy Fold*
 
-6.  Go down to 'Projekat MatchIT' and pay attention to vertical grey
-    > line
+6.  Go down to 'Projekat MatchIT' and pay attention to vertical grey line
 
-**Expected result:**
+Expected result:
 
 Vertical line should stand by words.
 
-**Actual result:**
+Actual result:
 
 Words are over vertical line.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -750,29 +684,26 @@ Same is applicable for:
 
 -   Samsung Galaxy S20 Ultra 412 x 915
 
-**Screenshoot:**
+Screenshoot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/896ba2d4-fe82-4109-b1a4-61b410c225ce)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image30.png){width="2.84375in"
-height="5.5in"}
+<hr>BUG18</hr>
 
-BUG18
-
-**Summary:**
+Summary:
 
 WEB - Oglasi - Text about project ('O projektu') isn't beside the
 vertical line.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > <https://company.matchit.rs/job-offers/18>
+2.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
 
 3.  Mouse right-click on page \> Inspect
 
@@ -782,16 +713,16 @@ display's dimensions 280 x 653.
 
 6.  Go down to 'Projekat MatchIT' and pay attention to 'O projektu'
 
-**Expected result:**
+Expected result:
 
 Text about project ('O projektu') should stand beside the vertical line,
 on the right side.
 
-**Actual result:**
+Actual result:
 
 Text about project ('O projektu') is below the vertical line.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -799,28 +730,25 @@ Same is applicable for:
 
 -   Samsung Galaxy S8+ 360 x 740
 
-**Screenshoot:**
+Screenshoot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/199800f1-4625-47b9-af65-68be6a47c56d)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image14.png){width="3.213542213473316in"
-height="5.1246784776902885in"}
+<hr>BUG19</hr>
 
-BUG19
-
-**Summary:**
+Summary:
 
 WEB - Oglasi - Icons for technologies are displayed small.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > <https://company.matchit.rs/job-offers/18>
+2.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
 
 3.  Mouse right-click on page \> Inspect
 
@@ -830,36 +758,33 @@ display's dimensions 280 x 653.
 
 6.  Go down to 'Tech Stack' and pay attention to 'Tehnologija'
 
-**Expected result:**
+Expected result:
 
 Icons for listed technologies should be in size to be visible.
 
-**Actual result:**
+Actual result:
 
 Icons for listed technologies have small size.
 
-**Screenshot:**
+Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/06e7b2c1-60f1-4663-9f8e-09cb9b151f83)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image22.png){width="4.260416666666667in"
-height="5.6875in"}
+<hr>BUG20</hr>
 
-BUG20
-
-**Summary:**
+Summary:
 
 WEB - Izmena oglasa - Fields for years of experience are empty.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
 3.  Click on 'Izmeni oglas'
 
@@ -871,17 +796,17 @@ display's dimensions 280 x 653.
 
 7.  Go down to 'Tech Stack' and pay attention to 'Godine iskustva'
 
-**Expected result:**
+Expected result:
 
 Years of experience ('Godine iskustva') should be displayed in fields
 for that like numbers.
 
-**Actual result:**
+Actual result:
 
 Fields for years of experience ('Godine iskustva') are empty, no numbers
 displayed there.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -899,29 +824,26 @@ Same is applicable for:
 
 -   Samsung Galaxy S20 Ultra 412 x 915
 
-**Screenshot:**
+Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/64c18b40-4988-49c8-a407-6380a7b7a1e2)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image20.png){width="2.557292213473316in"
-height="4.091666666666667in"}
+<hr>BUG21</hr>
 
-BUG21
-
-**Summary:**
+Summary:
 
 WEB - Izmena oglasa - Words and icons are out of frame for various
 fields.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
 3.  Click on 'Izmeni oglas'
 
@@ -933,38 +855,34 @@ display's dimensions 280 x 653.
 
 7.  Go down below 'O projektu' and pay attention to all fields
 
-**Expected result:**
+Expected result:
 
 Every field has own grey frame. Words, icons are inside that frame.
 
-**Actual result:**
+Actual result:
 
 Words and icons are partially outside the frame.
 
-**Screenshot:**
+Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/b89b2445-e438-4f70-a719-0b27b5012e49)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image24.png){width="2.806427165354331in"
-height="5.109375546806649in"}![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image19.png){width="3.2315999562554683in"
-height="3.008423009623797in"}
+<hr>BUG22</hr>
 
-BUG22
-
-**Summary:**
+Summary:
 
 WEB - Izmena oglasa - Fields for benefits ('Benefiti') are displayed
 empty.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
 3.  Click on 'Izmeni oglas'
 
@@ -974,18 +892,17 @@ display's dimensions 280 x 653.
 
 6.  On top left choose *Dimensions: Galaxy Fold*
 
-7.  Go down below 'O projektu' and pay attention to benefits
-    > ('Benefiti')
+7.  Go down below 'O projektu' and pay attention to benefits ('Benefiti')
 
-**Expected result:**
+Expected result:
 
 Chosen benefits ('Benefiti') should be displayed in fields for that.
 
-**Actual result:**
+Actual result:
 
 Chosen benefits ('Benefiti') are displayed empty, like nothing choosed.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -993,29 +910,26 @@ Same is applicable for:
 
 -   Samsung Galaxy S8+ 360 x 740
 
-**Screenshot:**
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image10.png){width="2.2496139545056866in"
-height="4.338542213473316in"}
+Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/eb09d26b-3d52-4474-b7c7-1482c369d4bb)
 
 BUG23
 
-**Summary:**
+Summary:
 
 WEB - Izmena oglasa - Fields for Neto salary in € ('Neto plata u €') are
 displayed empty.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example
-    > [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
 3.  Click on 'Izmeni oglas'
 
@@ -1025,20 +939,19 @@ display's dimensions 280 x 653.
 
 6.  On top left choose *Dimensions: Galaxy Fold*
 
-7.  Go down below 'O projektu' and pay attention to Neto salary in €
-    > ('Neto plata u €')
+7.  Go down below 'O projektu' and pay attention to Neto salary in € ('Neto plata u €')
 
-**Expected result:**
+Expected result:
 
 Chosen Min and Max Neto salary ('Neto plata u €') should be displayed in
 fields for that.
 
-**Actual result:**
+Actual result:
 
 Chosen Min and Max Neto salary ('Neto plata u €') are displayed empty,
 like nothing choosed.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -1046,29 +959,25 @@ Same is applicable for:
 
 -   Samsung Galaxy S8+ 360 x 740
 
-**Screenshot:**
+Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/d5185c75-be70-4ffb-8b1b-38c9c29ceeac)
 
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image27.png){width="3.0504713473315834in"
-height="3.458938101487314in"}![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image6.png){width="2.4119739720034996in"
-height="2.586975065616798in"}
+<hr>BUG24</hr>
 
-BUG24
-
-**Summary:**
+Summary:
 
 WEB - Deck Kandidata - Years of experience ('Iskustvo') can't be seen.
 
-**Precondition:**
+Precondition:
 
 Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
-**Steps to reproduce:**
+Steps to reproduce:
 
 1.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the candidate's deck, example
-    > <https://company.matchit.rs/job-offers/99/deck>
+2.  Go to the candidate's deck, example <https://company.matchit.rs/job-offers/99/deck>
 
 3.  Mouse right-click on page \> Inspect
 
@@ -1078,15 +987,15 @@ display's dimensions 280 x 653.
 
 6.  Pay attention to the right side beside technologies
 
-**Expected result:**
+Expected result:
 
 Years of experiences are displayed beside technologies.
 
-**Actual result:**
+Actual result:
 
 Years of experiences are shrinked and not visible.
 
-**Note:**
+Note:
 
 Same is applicable for:
 
@@ -1096,7 +1005,5 @@ Same is applicable for:
 
 -   Nest Hub 1024 x 600
 
-**Screenshot:**
-
-![](vertopal_21f27a23018d418d878f5639f547aa4d/media/image2.png){width="1.9796751968503936in"
-height="2.5364588801399823in"}
+Screenshot:
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/2fe44317-30a8-4914-b679-39044048b8bf)
