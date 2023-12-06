@@ -13,15 +13,15 @@ Environment is Windows 10/Chrome.
 
 **Steps to reproduce:**
 
-1.  Log in to <https://company.matchit.rs/>
+1\.  Log in to <https://company.matchit.rs/>
 
-2.  Click on button Add job ad ('+Dodaj oglas')
+2\.  Click on button Add job ad ('+Dodaj oglas')
 
-3.  Fill all fields and click on Create ('Kreiraj)
+3\.  Fill all fields and click on Create ('Kreiraj)
 
-4.  Go to link <https://company.matchit.rs/job-offers> and find newly reated job ad
+4\.  Go to link <https://company.matchit.rs/job-offers> and find newly reated job ad
 
-5.  Click on created job ad
+5\.  Click on created job ad
 
 **Expected result:**
 
@@ -144,13 +144,13 @@ Environment is Android/Blackview A80 Pro.
 
 **Steps to reproduce:**
 
-1.  Log in to application for the first time.
+1\.  Log in to application for the first time.
 
-2.  Fill in Name and Surname.
+2\.  Fill in Name and Surname.
 
-3.  Choose maximum allowed random technologies.
+3\.  Choose maximum allowed random technologies.
 
-4.  Pay attention how many technologies counter shows.
+4\.  Pay attention how many technologies counter shows.
 
 **Expected result:**
 
@@ -178,15 +178,15 @@ Environment is Android/Blackview A80 Pro.
 
 **Steps to reproduce:**
 
-1.  Log in to application for the first time.
+1\.  Log in to application for the first time.
 
-2.  Fill in Name and Surname.
+2\.  Fill in Name and Surname.
 
-3.  Choose maximum allowed random technologies (20).
+3\.  Choose maximum allowed random technologies (20).
 
-4.  Uncheck few technologies.
+4\.  Uncheck few technologies.
    
-6.  Check random technologies to be maximum allowed (20).
+6\.  Check random technologies to be maximum allowed (20).
 
 **Expected result:**
 
@@ -216,15 +216,15 @@ screen.
 
 **Steps to reproduce:**
 
-1.  Log in Mobile App and choose Profile ('Profil').
+1\.  Log in Mobile App and choose Profile ('Profil').
 
-2.  Choose Certificates ('Sertifikati')
+2\.  Choose Certificates ('Sertifikati')
 
-3.  Click button Add certificate ('Dodaj sertifikat').
+3\.  Click button Add certificate ('Dodaj sertifikat').
 
-4.  Fill in all fields and click Save ('Sačuvaj').
+4\.  Fill in all fields and click Save ('Sačuvaj').
 
-5.  Repeat 3 more times Steps 3, 4.
+5\.  Repeat 3 more times Steps 3, 4.
 
 **Expected result:**
 
