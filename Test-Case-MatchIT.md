@@ -94,7 +94,7 @@ Verify that user received a Pop-up notifications when got a message from HR/Comp
 |3|Click on matched job.||MatChat is open.|
 |4|Fill bottom field where is text ‘Write something here’ with 5001 characters and click right arrow for sending.|Random string with 5001 characters|Error message ‘Max. message length (5000) exceeded.’ appears in chat.|
 
-<hr>Test case 6</hr>
+### <hr>Test case 6</hr>
 
 **Test case name:** Verify that user can send 5000 characters to matched job in MatChat.
 
