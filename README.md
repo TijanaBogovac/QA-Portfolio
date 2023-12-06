@@ -1,6 +1,6 @@
  ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/96193621-1447-434d-b1d5-add312cab4be)
  # QA-Portfolio - https://matchit.rs/ 
-Welcome to my GitHub portfolio! Here, you'll find information about my work on the MatchIT.
+Welcome to my GitHub portfolio! Here, you'll find information about my work on the MatchIT application.
 ## Project
 MatchIT is a new mobile application in Serbia, which is also called Tinder for jobs. User swipes a job which likes and gets match with It. After matching, user gets a message via MatChat from potential employee.  
 
