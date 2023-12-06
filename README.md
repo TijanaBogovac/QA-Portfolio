@@ -6,10 +6,11 @@ MatchIT is a new mobile application in Serbia, which is also called Tinder for j
 
 My role in this project was to test whole application on various devices. Here's a summary of my contributions to the projects:
 
-- Testing functionality, design,
+- Feature and regression testing including functionality and design,
 - Writing test case using techniques such as Boundary Value Analysis and State Transition Technique,
-- Creating bug reports during testing,
-- Providing suggestions for improvements.
+- Creating bug reports,
+- Creating function and visual improvements,
+- Exploratory testing.
 #### Environments are:
 - Windows10/Chrome,
 - Android/Blackview A80 Pro,
