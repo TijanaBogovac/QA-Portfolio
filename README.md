@@ -1,9 +1,21 @@
-# QA-Portfolio - https://matchit.rs/
+ ![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/96193621-1447-434d-b1d5-add312cab4be)
+ # QA-Portfolio - https://matchit.rs/ 
 Welcome to my GitHub portfolio! Here, you'll find information about my work on the MatchIT.
 ## Project
-MatchIT is a new mobile application in Serbia, which is also called Tinder for jobs. User swipes a job which likes and gets match with It. After matching, user gets a message via MatChat from potential employee. My responsibility was to test app design on various devices, swipe function, match function, chat function. 
+MatchIT is a new mobile application in Serbia, which is also called Tinder for jobs. User swipes a job which likes and gets match with It. After matching, user gets a message via MatChat from potential employee.  
+
+My role in this project was to test whole application on various devices. Here's a summary of my contributions to the projects:
+
+- Testing functionality, design on various devices.
+- Writing test case using techniques such as Boundary Value Analysis and State Transition Technique.
+- Creating bug reports during testing.
+- Providing suggestions for improvements.
+#### Environments are:
+- Windows10/Chrome,
+- Android/Blackview A80 Pro,
+- Various devices simulated with Chrome DevTools.
 ## Testing
-Testing the MatchIT mobile app. involved assessing various aspects, including functionality, design, and user experience. Test scenarios served as the foundation for testing, and any issues discovered were documented through bug reports. Additionally, I offered suggestions for enhancements to increase user friendly design of app.
+Testing the MatchIT mobile app. involved assessing various aspects, including functionality (swipe/match/chat), design, and user experience. Test scenarios served as the foundation for testing, and any issues discovered were documented through bug reports. Additionally, I offered suggestions for enhancements to increase user friendly design of app.
 ## Reports
 In this repository, you can find the following reports:
 - [Test Cases](Test-Case-MatchIT.md)
