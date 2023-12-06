@@ -1,6 +1,7 @@
-﻿**TEST CASE**
-
-<hr>Test case 1</hr>
+# ﻿**TEST CASE**
+### Test cases with State transition technique
+ 
+<hr>Test case 1 </hr>
 
 **Test case name:** Verify that Pop-up notification will appear on mobile when user got matched with a job.
 
@@ -46,6 +47,7 @@ Verify that user received a Pop-up notifications when got a message from HR/Comp
 |11|HR/Company user write a text message and click arrow for sending.|Hello|The message has been sent to matched candidate.|
 |12|Candidate checks the notifications on his phone.|User’s mobile phone|Pop-up notification appeared on user’s mobile display screen. User find out that got a message on MatChat.|
 
+### <hr>Test cases with Boundary value analysis</hr>
 <hr>Test case 3</hr>
 
 **Test case name:** Verify that user can’t send empty message via MatChat on a Mobile app.
