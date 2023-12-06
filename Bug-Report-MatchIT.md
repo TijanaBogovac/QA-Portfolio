@@ -163,7 +163,7 @@ The user selected 21 technologies.
 
 **Screenshot:**
 
-![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/93917fa1-2e51-42ba-bc00-0a4555248eb8)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/7eb71d3f-c95b-40d7-8fdb-5c3f6554fa78)
 
 <hr>BUG6</hr>
 
@@ -242,8 +242,8 @@ Badges ('Veštine i Bedzevi').
 
 **Screenshot:**
 
-![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/2bc2792f-0f56-4757-a86d-74efebe19adc)
-![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/3c4497ff-6009-4cfc-8821-1c238c74c59a)
+![image](https://github.com/TijanaBogovac/QA-Portfolio/assets/149398561/fbae383e-99d3-4a1b-856c-806adb73ab70)
+
 
 <hr>BUG8</hr>
 
