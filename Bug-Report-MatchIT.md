@@ -186,7 +186,7 @@ Environment is Android/Blackview A80 Pro.
 
 4\.  Uncheck few technologies.
    
-6\.  Check random technologies to be maximum allowed (20).
+5\.  Check random technologies to be maximum allowed (20).
 
 **Expected result:**
 
