@@ -1,7 +1,7 @@
 # ﻿**TEST CASE**
 ### Test cases with State transition technique
  
-<hr>Test case 1 </hr>
+### <hr>Test case 1 </hr>
 
 **Test case name:** Verify that Pop-up notification will appear on mobile when user got matched with a job.
 
@@ -22,7 +22,7 @@ Verify that user got the Pop-up notification when became matched with a job. Via
 |7|HR/Company user ✔ (tick) that candidate.||Candidate is matched with a job. |
 |8|User checks notifications on the mobile phone.|User’s mobile|<p>Pop-up notification “ # It’s Match </p><p>Čestitamo na uspešnom povezivanju kompanije Match IT  za poziciju Medior Android developer sa kandidatom Tijana B.</p><p>&NewLine;</p><p>## Poklapanja</p><p>- 50% po tehnologiji</p><p>- 100% po plati</p><p>- 100 % po benefitima</p><p>… “</p><p>appeared on user’s mobile display screen. User find out that got matched with a liked job.</p>|
 
-<hr>Test case 2</hr>
+### <hr>Test case 2</hr>
 
 **Test case name:** Verify that user receive a Pop-up notification for new messages on mobile phone.
 
@@ -48,7 +48,8 @@ Verify that user received a Pop-up notifications when got a message from HR/Comp
 |12|Candidate checks the notifications on his phone.|User’s mobile phone|Pop-up notification appeared on user’s mobile display screen. User find out that got a message on MatChat.|
 
 ### <hr>Test cases with Boundary value analysis</hr>
-<hr>Test case 3</hr>
+
+### <hr>Test case 3</hr>
 
 **Test case name:** Verify that user can’t send empty message via MatChat on a Mobile app.
 
@@ -63,7 +64,7 @@ Verify that user received a Pop-up notifications when got a message from HR/Comp
 |3|Click on matched job.||MatChat is open.|
 |4|Click down right arrow for sending to send empty message.||It’s not allowed to send empty message. Arrow for sending is disabled.|
 
-<hr>Test case 4</hr>
+### <hr>Test case 4</hr>
 
 **Test case name:** Verify that min. number of character which user can send to matched job in MatChat, on mobile app, is 1.
 
@@ -78,7 +79,7 @@ Verify that user received a Pop-up notifications when got a message from HR/Comp
 |3|Click on matched job.||MatChat is open.|
 |4|Fill bottom field where is text ‘Write something here’ with only one character.|1|Mesage ‘1’ has been sent to matched job.|
 
-<hr>Test case 5</hr>
+### <hr>Test case 5</hr>
 
 **Test case name:** Verify that Error message will appear if user send a message with 5001 characters to matched job in MatChat.
 
