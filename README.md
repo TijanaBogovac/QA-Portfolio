@@ -9,7 +9,7 @@ My role in this project was to test whole application on various devices. Here's
 - Feature and regression testing including functionality and design,
 - Writing test case using techniques such as Boundary Value Analysis and State Transition Technique,
 - Creating bug reports,
-- Creating function and visual improvements,
+- Creating functional and visual improvements,
 - Exploratory testing.
 #### Environments are:
 - Windows10/Chrome,
