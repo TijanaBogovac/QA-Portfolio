@@ -318,11 +318,11 @@ HR/Company user is logged in web app,
 
 2\. Write text message with GIF animation.
 
-2\. Send a message.
+3\. Send a message.
 
-3\. Open MatChat on WEB <https://company.matchit.rs/chat>
+4\. Open MatChat on WEB <https://company.matchit.rs/chat>
 
-4\. Check new message from candidate.
+5\. Check new message from candidate.
 
 **Expected result:**
 
@@ -449,7 +449,7 @@ HR/Company user is logged in.
 
 4\. Choose icon Reply in the middle (2 arrows icon).
 
-6\. Type a message 123456 below 'Thread' field.
+5\. Type a message 123456 below 'Thread' field.
 
 **Expected result:**
 
@@ -490,7 +490,7 @@ HR/Company user is logged in.
 
 4\. Click icon three dots ('\...').
 
-4\. Choose 'Pin'.
+5\. Choose 'Pin'.
 
 **Expected result:**
 
@@ -521,17 +521,17 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the link <https://company.matchit.rs/chat>
+2\.  Go to the link <https://company.matchit.rs/chat>
 
-3.  Mouse right-click on the page \> Inspect
+3\.  Mouse right-click on the page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On top left choose *Dimensions: Galaxy Fold*
+5\.  On top left choose *Dimensions: Galaxy Fold*
 
-6.  Pay attention to chat's tab
+6\.  Pay attention to chat's tab
 
 **Expected result:**
 
@@ -559,17 +559,17 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to <https://company.matchit.rs/chat>
+2\.  Go to <https://company.matchit.rs/chat>
 
-3.  Mouse right-click on the page \> Inspect
+3\.  Mouse right-click on the page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On the top left choose *Dimensions: Galaxy Fold*
+5\.  On the top left choose *Dimensions: Galaxy Fold*
 
-6.  Pay attention to chat's tab
+6\.  Pay attention to chat's tab
 
 **Expected result:**
 
@@ -598,17 +598,17 @@ display's dimensions 412 x 914.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to <https://company.matchit.rs/chat>
+2\.  Go to <https://company.matchit.rs/chat>
 
-3.  Mouse right-click on the page \> Inspect
+3\.  Mouse right-click on the page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On the top left choose *Dimensions: Samsung Galaxy A51/71*
+5\.  On the top left choose *Dimensions: Samsung Galaxy A51/71*
 
-6.  Pay attention to chat's tab
+6\.  Pay attention to chat's tab
 
 **Expected result:**
 
@@ -655,17 +655,17 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
+2\.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
 
-3.  Mouse right-click on page \> Inspect
+3\.  Mouse right-click on page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On top left choose *Dimensions: Galaxy Fold*
+5\.  On top left choose *Dimensions: Galaxy Fold*
 
-6.  Go down to 'Projekat MatchIT' and pay attention to vertical grey line
+6\.  Go down to 'Projekat MatchIT' and pay attention to vertical grey line
 
 **Expected result:**
 
@@ -711,17 +711,17 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
+2\.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
 
-3.  Mouse right-click on page \> Inspect
+3\.  Mouse right-click on page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On top left choose *Dimensions: Galaxy Fold*
+5\.  On top left choose *Dimensions: Galaxy Fold*
 
-6.  Go down to 'Projekat MatchIT' and pay attention to 'O projektu'
+6\.  Go down to 'Projekat MatchIT' and pay attention to 'O projektu'
 
 **Expected result:**
 
@@ -757,17 +757,17 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
+2\.  Go to the any job's ad, example <https://company.matchit.rs/job-offers/18>
 
-3.  Mouse right-click on page \> Inspect
+3\.  Mouse right-click on page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On top left choose *Dimensions: Galaxy Fold*
+5\.  On top left choose *Dimensions: Galaxy Fold*
 
-6.  Go down to 'Tech Stack' and pay attention to 'Tehnologija'
+6\.  Go down to 'Tech Stack' and pay attention to 'Tehnologija'
 
 **Expected result:**
 
@@ -794,19 +794,19 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2\.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
-3.  Click on 'Izmeni oglas'
+3\.  Click on 'Izmeni oglas'
 
-4.  Mouse right-click on page \> Inspect
+4\.  Mouse right-click on page \> Inspect
 
-5.  Ctrl + Shift + M
+5\.  Ctrl + Shift + M
 
-6.  On top left choose *Dimensions: Galaxy Fold*
+6\.  On top left choose *Dimensions: Galaxy Fold*
 
-7.  Go down to 'Tech Stack' and pay attention to 'Godine iskustva'
+7\.  Go down to 'Tech Stack' and pay attention to 'Godine iskustva'
 
 **Expected result:**
 
@@ -854,19 +854,19 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2\.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
-3.  Click on 'Izmeni oglas'
+3\.  Click on 'Izmeni oglas'
 
-4.  Mouse right-click on page \> Inspect
+4\.  Mouse right-click on page \> Inspect
 
-5.  Ctrl + Shift + M
+5\.  Ctrl + Shift + M
 
-6.  On top left choose *Dimensions: Galaxy Fold*
+6\.  On top left choose *Dimensions: Galaxy Fold*
 
-7.  Go down below 'O projektu' and pay attention to all fields
+7\.  Go down below 'O projektu' and pay attention to all fields
 
 **Expected result:**
 
@@ -894,19 +894,19 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2\.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
-3.  Click on 'Izmeni oglas'
+3\.  Click on 'Izmeni oglas'
 
-4.  Mouse right-click on page \> Inspect
+4\.  Mouse right-click on page \> Inspect
 
-5.  Ctrl + Shift + M
+5\.  Ctrl + Shift + M
 
-6.  On top left choose *Dimensions: Galaxy Fold*
+6\.  On top left choose *Dimensions: Galaxy Fold*
 
-7.  Go down below 'O projektu' and pay attention to benefits ('Benefiti')
+7\.  Go down below 'O projektu' and pay attention to benefits ('Benefiti')
 
 **Expected result:**
 
@@ -942,19 +942,19 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
+2\.  Go to the any job's ad, example [https://company.matchit.rs/job-offers/99](https://company.matchit.rs/job-offers/99/edit)
 
-3.  Click on 'Izmeni oglas'
+3\.  Click on 'Izmeni oglas'
 
-4.  Mouse right-click on page \> Inspect
+4\.  Mouse right-click on page \> Inspect
 
-5.  Ctrl + Shift + M
+5\.  Ctrl + Shift + M
 
-6.  On top left choose *Dimensions: Galaxy Fold*
+6\.  On top left choose *Dimensions: Galaxy Fold*
 
-7.  Go down below 'O projektu' and pay attention to Neto salary in € ('Neto plata u €')
+7\.  Go down below 'O projektu' and pay attention to Neto salary in € ('Neto plata u €')
 
 **Expected result:**
 
@@ -991,17 +991,17 @@ display's dimensions 280 x 653.
 
 **Steps to reproduce:**
 
-1.  Log in to the <https://company.matchit.rs/>
+1\.  Log in to the <https://company.matchit.rs/>
 
-2.  Go to the candidate's deck, example <https://company.matchit.rs/job-offers/99/deck>
+2\.  Go to the candidate's deck, example <https://company.matchit.rs/job-offers/99/deck>
 
-3.  Mouse right-click on page \> Inspect
+3\.  Mouse right-click on page \> Inspect
 
-4.  Ctrl + Shift + M
+4\.  Ctrl + Shift + M
 
-5.  On top left choose *Dimensions: Galaxy Fold*
+5\.  On top left choose *Dimensions: Galaxy Fold*
 
-6.  Pay attention to the right side beside technologies
+6\.  Pay attention to the right side beside technologies
 
 **Expected result:**
 
