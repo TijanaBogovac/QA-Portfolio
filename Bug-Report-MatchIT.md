@@ -516,7 +516,7 @@ WEB - MatChat - List of messages with candidates aren't visible.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+EnvironmentS are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -554,7 +554,7 @@ WEB - MatChat - Messages are displayed vertically.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -593,7 +593,7 @@ displayed.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Samsung Galaxy A51/71 with
+Environments are Windows 10/Chrome and Samsung Galaxy A51/71 with
 display's dimensions 412 x 914.
 
 **Steps to reproduce:**
@@ -650,7 +650,7 @@ WEB - Oglasi - A vertical line crosses over words.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -706,7 +706,7 @@ vertical line.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -752,7 +752,7 @@ WEB - Oglasi - Icons for technologies are displayed small.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -789,7 +789,7 @@ WEB - Izmena oglasa - Fields for years of experience are empty.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -849,7 +849,7 @@ fields.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -889,7 +889,7 @@ empty.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -937,7 +937,7 @@ displayed empty.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
@@ -986,7 +986,7 @@ WEB - Deck Kandidata - Years of experience ('Iskustvo') can't be seen.
 
 **Precondition:**
 
-Environment is Windows 10/Chrome and Galaxy Fold mobile phone with
+Environments are Windows 10/Chrome and Galaxy Fold mobile phone with
 display's dimensions 280 x 653.
 
 **Steps to reproduce:**
