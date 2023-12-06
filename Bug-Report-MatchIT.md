@@ -363,7 +363,7 @@ HR/Company user is logged in web app,
 
 3\. At the same moment open MatChat on WEB: <https://company.matchit.rs/chat?match_id=166>
 
-3\. Pay attention to the chat's bottom in the moment when candidate
+4\. Pay attention to the chat's bottom in the moment when candidate
 types a message.
 
 **Expected result:**
