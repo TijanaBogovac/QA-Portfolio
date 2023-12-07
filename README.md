@@ -16,7 +16,7 @@ My role in this project was to test whole application on various devices. Here's
 - Android/Blackview A80 Pro,
 - Various devices simulated with Chrome DevTools.
 ## Testing
-Testing the MatchIT mobile app. involved assessing various aspects, including functionality (swipe/match/chat), design, and user experience. Test scenarios served as the foundation for testing, and any issues discovered were documented through bug reports. Additionally, I offered suggestions for enhancements to increase user friendly design of app.
+Testing the MatchIT app. involved assessing various aspects, including functionality (swipe/match/chat), design, and user experience. Test scenarios served as the foundation for testing, and any issues discovered were documented through bug reports. Additionally, I offered suggestions for enhancements to increase user friendly design of app.
 ## Reports
 In this repository, you can find the following reports:
 - [Test Cases](Test-Case-MatchIT.md)
